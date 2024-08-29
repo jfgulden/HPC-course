@@ -1,0 +1,12 @@
+guelden1
+Mon Aug  5 18:00:45 CEST 2024
+- SERIAL EXECUTION
+Maximum is 2
+SEQ used 4.263531 seconds
+- MPI EXECUTION
+- OpenMP EXECUTION
+Maximum is 2
+OMP 1 threads used 8.174614 seconds
+- HYBRID EXECUTION
+Maximum is 2
+HYB 4 ranks 8 threads used 1.092363 seconds

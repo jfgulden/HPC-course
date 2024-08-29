@@ -1,0 +1,81 @@
+guelden1
+Thu Aug  8 20:56:57 CEST 2024
+
+Outputs of the last execution
+
+- SERIAL EXECUTION
+Maximum is 2
+SEQ used 4.288638 seconds
+- MPI EXECUTION
+Maximum is 2
+MPI 2 ranks used 2.189672 seconds
+Maximum is 2
+MPI 4 ranks used 1.094966 seconds
+Maximum is 2
+MPI 8 ranks used 0.555585 seconds
+Maximum is 2
+MPI 16 ranks used 0.279695 seconds
+Maximum is 2
+MPI 32 ranks used 0.141191 seconds
+Maximum is 2
+MPI 64 ranks used 0.074075 seconds
+Maximum is 2
+MPI 128 ranks used 0.054432 seconds
+- OpenMP EXECUTION
+Maximum is 2
+OMP 2 threads used 2.921895 seconds
+Maximum is 2
+OMP 4 threads used 1.460425 seconds
+Maximum is 2
+OMP 8 threads used 0.725087 seconds
+Maximum is 2
+OMP 16 threads used 0.365891 seconds
+Maximum is 2
+OMP 32 threads used 0.187395 seconds
+Maximum is 2
+OMP 64 threads used 0.100113 seconds
+Maximum is 2
+OMP 128 threads used 0.115394 seconds
+- HYBRID EXECUTION
+Maximum is 2
+HYB 2 ranks 2 threads used 1.430106 seconds
+Maximum is 2
+HYB 2 ranks 4 threads used 0.748383 seconds
+Maximum is 2
+HYB 2 ranks 8 threads used 0.406577 seconds
+Maximum is 2
+HYB 2 ranks 16 threads used 0.246604 seconds
+Maximum is 2
+HYB 2 ranks 32 threads used 0.175850 seconds
+Maximum is 2
+HYB 2 ranks 64 threads used 0.200521 seconds
+Maximum is 2
+HYB 4 ranks 2 threads used 0.718893 seconds
+Maximum is 2
+HYB 4 ranks 4 threads used 0.381411 seconds
+Maximum is 2
+HYB 4 ranks 8 threads used 0.203360 seconds
+Maximum is 2
+HYB 4 ranks 16 threads used 0.125107 seconds
+Maximum is 2
+HYB 4 ranks 32 threads used 0.106283 seconds
+Maximum is 2
+HYB 8 ranks 2 threads used 0.381579 seconds
+Maximum is 2
+HYB 8 ranks 4 threads used 0.190015 seconds
+Maximum is 2
+HYB 8 ranks 8 threads used 0.104310 seconds
+Maximum is 2
+HYB 8 ranks 16 threads used 0.079148 seconds
+Maximum is 2
+HYB 16 ranks 2 threads used 0.188092 seconds
+Maximum is 2
+HYB 16 ranks 4 threads used 0.108775 seconds
+Maximum is 2
+HYB 16 ranks 8 threads used 0.086525 seconds
+Maximum is 2
+HYB 32 ranks 2 threads used 0.095195 seconds
+Maximum is 2
+HYB 32 ranks 4 threads used 0.065577 seconds
+Maximum is 2
+HYB 64 ranks 2 threads used 0.064491 seconds

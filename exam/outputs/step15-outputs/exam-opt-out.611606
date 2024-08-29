@@ -1,0 +1,84 @@
+guelden1
+Sat Aug 10 06:37:38 CEST 2024
+
+Outputs of the last execution
+
+- SERIAL EXECUTION
+Maximum is 2
+SEQ used 0.223203 seconds
+
+- MPI EXECUTION
+Maximum is 2
+MPI 2 ranks used 0.482807 seconds
+Maximum is 2
+MPI 4 ranks used 0.241841 seconds
+Maximum is 2
+MPI 8 ranks used 0.121434 seconds
+Maximum is 2
+MPI 16 ranks used 0.062758 seconds
+Maximum is 2
+MPI 32 ranks used 0.032684 seconds
+Maximum is 2
+MPI 64 ranks used 0.018966 seconds
+Maximum is 2
+MPI 128 ranks used 0.015044 seconds
+
+- OMP EXECUTION
+Maximum is 2
+OMP 2 threads used 0.149205 seconds
+Maximum is 2
+OMP 4 threads used 0.075973 seconds
+Maximum is 2
+OMP 8 threads used 0.038240 seconds
+Maximum is 2
+OMP 16 threads used 0.021684 seconds
+Maximum is 2
+OMP 32 threads used 0.013171 seconds
+Maximum is 2
+OMP 64 threads used 0.012488 seconds
+Maximum is 2
+OMP 128 threads used 0.019677 seconds
+
+- HYBRID EXECUTION
+Maximum is 1
+HYB 2 ranks 2 threads used 0.357358 seconds
+Maximum is 1
+HYB 2 ranks 4 threads used 0.765310 seconds
+Maximum is -2599
+HYB 2 ranks 8 threads used 0.878469 seconds
+Maximum is 0.999999
+HYB 2 ranks 16 threads used 0.588291 seconds
+Maximum is 0.999999
+HYB 2 ranks 32 threads used 0.123273 seconds
+Maximum is -50.5625
+HYB 2 ranks 64 threads used 0.628160 seconds
+Maximum is 1
+HYB 4 ranks 2 threads used 0.402110 seconds
+Maximum is 0.999999
+HYB 4 ranks 4 threads used 0.371623 seconds
+Maximum is 0.999999
+HYB 4 ranks 8 threads used 0.354405 seconds
+Maximum is 0.999999
+HYB 4 ranks 16 threads used 0.283514 seconds
+Maximum is 2
+HYB 4 ranks 32 threads used 0.332954 seconds
+Maximum is 1
+HYB 8 ranks 2 threads used 0.210223 seconds
+Maximum is 2
+HYB 8 ranks 4 threads used 0.178630 seconds
+Maximum is 0.999999
+HYB 8 ranks 8 threads used 0.220184 seconds
+Maximum is 2
+HYB 8 ranks 16 threads used 0.186217 seconds
+Maximum is 2
+HYB 16 ranks 2 threads used 0.106392 seconds
+Maximum is 0.999999
+HYB 16 ranks 4 threads used 0.104579 seconds
+Maximum is 1
+HYB 16 ranks 8 threads used 0.124463 seconds
+Maximum is 2
+HYB 32 ranks 2 threads used 0.054610 seconds
+Maximum is 2
+HYB 32 ranks 4 threads used 0.056226 seconds
+Maximum is 2
+HYB 64 ranks 2 threads used 0.033964 seconds
