@@ -15,7 +15,7 @@ Introduction to the main application areas using HPC for research and industry, 
 - Provide a basic understanding of programming shared memory systems with OpenMP.
 - Provide an introduction to methods and tools for performance analysis and debugging of parallel programs.
 
-program
+## Program
 - Basic terminology and application areas of HPC.
 - Program performance evaluation.
 - HPC hardware architectures: shared and distributed memory systems, hybrid systems, heterogeneous systems with accelerators.
