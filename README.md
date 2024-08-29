@@ -1,17 +1,17 @@
 # HPC-course
 Introduction to HPC Applications, Systems, and Programming Models
 
-##Dictated by: 
+## Dictated by: 
 Bernd Mohr – Jülich Supercomputing Center. Germany.
 
 High-performance computing applications, systems and models.
 
-##Brief summary of the subject.
+## Brief summary of the subject.
 
 In this introductory course, students will learn what high performance computing (HPC) is and what sets it apart from other areas of computing. A will be made
 Introduction to the main application areas using HPC for research and industry, and how artificial intelligence (AI) and HPC interact with each other. The main HPC system architectures necessary to run these applications (distributed and shared memory systems, hybrid systems and heterogeneous systems) will be presented. In the main part of the course, students will be provided with an overview of the languages ​​and paradigms used to program HPC applications and systems. They will learn how to use MPI to program distributed memory systems (clusters) and how to use OpenMP for shared memory systems. The course will conclude with an introduction to methods and tools for performance analysis and debugging of parallel programs.
 
-##Course objectives
+## Course objectives
 – Provide a basic understanding of parallel computing.
 – Provide a basic understanding of programming distributed memory systems with MPI.
 – Provide a basic understanding of programming shared memory systems with OpenMP.
@@ -28,12 +28,12 @@ program
 – Introduction to debugging parallel programs.
 – Tools: MPI, OpenMP, OpenACC, CUDA/HIP.
 
-##Prerequisites
+## Prerequisites
 Knowledge of any of the following programming languages: C, C++, Fortran or Python.
 Basic notions of software development.
 Basic notions of computer architecture.
 
-##Bibliography
+## Bibliography
 – Victor Eijkhout. The Art of HPC, Volume 1: The Science of Computing. 3rd edition 2022, last update August 2023. https://theartofhpc.com/
 – Victor Eijkhout. The Art of HPC, Volume 2: Parallel Programming for Science and Engineering. 2nd edition 2022, last update October 2023. https://theartofhpc.com/
 – Victor Eijkhout. The Art of HPC, Volume 3: Introduction to Scientific Programming 1st edition, last update August 2023. https://theartofhpc.com/
